@@ -8,7 +8,6 @@ public class FindQqApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FindQqApplication.class, args);
-        int i=0;
-        System.out.println(i);
+        System.out.println("我是word");
     }
 }
